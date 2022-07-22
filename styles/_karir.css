@@ -1,0 +1,19 @@
+.container--keren:hover
+p{
+    color: #FAFAFA;
+}
+.container--keren:hover
+h1{
+    color: #FAFAFA;
+}
+.container--keren:hover
+button{
+    border-color: #FAFAFA;
+    background-color: #FAFAFA;
+}
+.container--keren:hover
+.line--card{
+    background-color:#fff;
+    color:#fff;
+    border: 0.5px solid #FAFAFA;
+}

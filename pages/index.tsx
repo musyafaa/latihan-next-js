@@ -22,7 +22,7 @@ const adalahKeren = () => {
         <ul className="flex flex-row m-8 hidden lg:flex">
           <li className="m-4 cursor-pointer hover:text-green-500"><Link href="/about">About Us</Link></li>
           <li className="m-4 cursor-pointer hover:text-green-500"><Link href="/digital-army">Our Service</Link></li>
-          <li className="m-4 cursor-pointer hover:text-green-500"><Link href="/karis">Career</Link></li>
+          <li className="m-4 cursor-pointer hover:text-green-500"><Link href="/karir">Career</Link></li>
           <li className="m-4 cursor-pointer hover:text-green-500"><Link href="/contact">Contact Us</Link></li>
         </ul>   
           <img className="lg:hidden block mr-[20px]" src="/src/image/humburger-menu.svg" alt="" />        
