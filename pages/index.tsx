@@ -40,9 +40,9 @@ const adalahKeren = () => {
       <img className="hidden lg:block h-[100vh] ml-[320px]" src="/src/image/gambar-lp.png" alt="landing page" />
    </div>
 
-   <div className="mb-32 gap-8">
+   <div className="mb-32 ">
     <h1 className="text-center font-bold mt-[70px] text-[40px]">Our Service</h1>
-    <div className="flex justify-between mx-16 lg:mx-24 mt-24">
+    <div className="flex justify-between mx-16 lg:mx-24 mt-24 gap-8">
         <div className="bg-gray-100 w-auto	lg:w-[316px] h-auto rounded-[30px] hover:bg-gray-200	">
             <div className="flex justify-center">
               <img className="mt-16 mb-8" src="/src/image/call-home.svg" alt="" />
