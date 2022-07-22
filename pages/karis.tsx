@@ -22,6 +22,10 @@ const karir = () => {
             <div className="">
                 <img src="src/image/karir.png" alt="" />
             </div>
+
+            <div className="bg-[#F0F0F0]">
+                <h1>hahahaha awikawok awokawokawok wkwkwkwkw</h1>
+            </div>
         </>
     );
 };
