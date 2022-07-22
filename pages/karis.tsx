@@ -24,7 +24,7 @@ const karir = () => {
             </div>
 
             <div className="bg-[#F0F0F0]">
-                <h1>hahahaha awikawok awokawokawok wkwkwkwkw</h1>
+                <h1>hahahaha awikawok </h1>
             </div>
         </>
     );
